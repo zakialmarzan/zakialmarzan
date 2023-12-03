@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zaki Al Marzan</h1>
 <h3 align="center">A self taught Blockchain developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning ** Solidity, Solana, Web3.Js, SolidJs and React**
+- 🌱 I’m currently learning **Solidity, Solana, Web3.Js, SolidJs and React**
 - 💬 Ask me about **Web3 development**
 - ✉️ My E-mail Address: **marzan_dip@outlook.com**
 - ⚡ Fun fact **I'm also a 3D animator**
@@ -30,6 +30,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
 </p>
 
 <h3 align="left">Support:</h3>
