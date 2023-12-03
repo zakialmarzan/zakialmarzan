@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Solidity, Solana, Web3.Js, SolidJs and React**
 - 💬 Ask me about **Web3 development**
 - ✉️ My E-mail Address: **marzan_dip@outlook.com**
-- ⚡ Fun fact **I'm a 3D animator**
+- ⚡ Fun fact **I'm alos a 3D animator**
 
 <div> <a href="https://www.linkedin.com/in/zaki-al-marzan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/zakialmarzan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
