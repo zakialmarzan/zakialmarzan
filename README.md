@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Zaki Al Marzan</h1>
 <h3 align="center">A self taught Blockchain developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Solidity, Solana, Web3.Js, SolidJs**
-- 💬 Ask me about **Web3 testing**
+- 🌱 I’m currently learning **Solidity, Solana, Web3.Js, SolidJs and React**
+- 💬 Ask me about **Web3 development**
 - ✉️ My E-mail Address: **marzan_dip@outlook.com**
 - ⚡ Fun fact **I'm a 3D animator**
 
